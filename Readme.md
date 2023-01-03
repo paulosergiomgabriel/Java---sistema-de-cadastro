@@ -10,4 +10,4 @@ node app.js
 
 ```
 
-:)
+Fim do arquivo readme.
